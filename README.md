@@ -66,8 +66,8 @@ recipe-backend/
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/femilana/Recipe-Backend-API.git
-   cd Recipe-Backend-API
+   git clone https://github.com/femilana/Recipe-Backend-API-.git
+   cd Recipe-Backend-API-
 2. Install dependencies
   npm install
 3. Add environment variables (.env)
